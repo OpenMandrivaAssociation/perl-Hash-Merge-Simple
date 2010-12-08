@@ -1,5 +1,5 @@
 %define upstream_name    Hash-Merge-Simple
-%define upstream_version 0.05
+%define upstream_version 0.051
 
 Name:       perl-%{upstream_name}
 Version:    %perl_convert_version %{upstream_version}
